@@ -16,4 +16,4 @@ A DD analysis uses comparison regions over the same time period to provide a bas
 
 ## 3. Further Content
 
-For more details, please refer to ![](40_docs/Report (Non-technical Stakeholder Version).pdf)
+For more details, please refer to ![Full Report](https://github.com/TommyTseng1129/Impact-Estimation-of-Opioid-Control-Policies/blob/master/40_docs/Report%20(Non-technical%20Stakeholder%20Version).pdf)

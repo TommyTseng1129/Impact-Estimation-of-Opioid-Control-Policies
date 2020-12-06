@@ -1,11 +1,12 @@
 # Impact Estimation of Opioid Control Policies
-
 ## 1. Motivation
 
 Opioid abuse and overdoses have rocked the United Statesfor the past two decades. The number of opioid overdose deaths has quadrupled since 1999, and more than half a million people died from drug overdoses from 2000 to 2015. Recently, opioid abuse has even contributed to a 2014-2017 decline in male life expectancy, leading the President to declare a national opioid health emergency in 2017. 
 
 In response to the opioid epidemic, states have implemented policies with the goal of decreasing opioid prescriptions, addictions, and deaths. This analysis examines three states specific states that enacted stricter opioid regulations between 2007 and 2012 – Florida, Texas, and Washington. Their regulatory policies all sought to decrease the volume of opioids and number of overdoses within the state. If their policies effectively decrease opioid prescriptions and deaths, they can be used as justifications for, or frameworks of, future interventions.
 
+
+![](Opioid.jpeg)
 ## 2. Research Design
 
 Two methods of analysis were used to evaluate the efficacy of states’ policy changes: a pre-post and difference-in-difference analysis. A pre-post analysis shows the effect of a policy change by measuring a variable’s trend before and after the change goes into effect. If the trend changes after the policy’s implementation year,the policy may have been effective. In the context of this analysis, pre-post graphs measure the number of opioid shipments or overdoses in a state’s counties before and after the state’s new opioid policy took effect. An effective policy would have a trend line that decreases in the years after the policy’s implementation. If the trend does not change, the policy may not be effective. 
